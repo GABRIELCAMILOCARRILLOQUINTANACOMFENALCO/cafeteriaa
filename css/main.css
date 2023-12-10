@@ -1,0 +1,7 @@
+table th{
+	background: #337ab7 !important;
+	color:white;
+}
+table>tbody>tr>td{
+	vertical-align: middle !important;
+}
