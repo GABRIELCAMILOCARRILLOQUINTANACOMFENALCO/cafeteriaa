@@ -380,7 +380,7 @@
 }
 
 	function eliminarDatos(idproducto){
-		alertify.confirm('Eliminar un juego', '¿Seguro de eliminar este producto :(?', function(){ 
+		alertify.confirm('Eliminar', '¿Seguro de eliminar este producto :(?', function(){ 
 
 			$.ajax({
 				type:"POST",
