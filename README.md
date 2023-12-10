@@ -1,3 +1,10 @@
+OBSERVACION
+
+En el index.php debe cambiar el origen de los botones 
+
+../cafeteriaa/inventario/inicioinve.php
+../cafeteriaa/venta/inicioventa.php
+
 CAFETERÍA DE SOFTWARE
 SOFTWARE DE INVENTARIO DE UNA CAFETERÍA, DONDE EL CLIENTE PUEDE AGREGAR LOS PRODUCTOS Y COMPRAR
 
