@@ -23,7 +23,7 @@
                     <h3>INVENTARIO</h3>
                     <p>En esta funcion se inicia el proceso del invetario</p>
                     <p>
-                        <a id="agregar" href="../PROYECTOG/inventario/inicioinve.php" class="btn btn-primary" role="button" >Agregar Usuario</a>
+                        <a id="agregar" href="../cafeteriaa/inventario/inicioinve.php" class="btn btn-primary" role="button" >Agregar Usuario</a>
                     </p>
                 </div>
             </div>
@@ -32,7 +32,7 @@
                     <h3>COMPRA</h3>
                     <p>En esta funcion podra comprar el producto</p>
                     <p>
-                        <a href="../PROYECTOG/venta/inicioventa.php" class="btn btn-primary" role="button">Editar Usuario</a>
+                        <a href="../cafeteriaa/venta/inicioventa.php" class="btn btn-primary" role="button">Editar Usuario</a>
                     </p>
                 </div>
             </div>
